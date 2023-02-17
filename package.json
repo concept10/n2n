@@ -1,0 +1,19 @@
+{
+  "name": "n2n",
+  "version": "0.0.1",
+  "description": "n2n",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/concept10/n2n.git"
+  },
+  "author": "concept10",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/concept10/n2n/issues"
+  },
+  "homepage": "https://github.com/concept10/n2n#readme"
+}
