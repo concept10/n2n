@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/concept10/n2n/issues"
   },
-  "homepage": "https://github.com/concept10/n2n#readme"
+  "homepage": "https://github.com/concept10/n2n#readme",
+  "devDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "reactflow": "^11.5.6"
+  }
 }
